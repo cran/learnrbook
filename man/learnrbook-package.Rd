@@ -4,23 +4,24 @@
 \name{learnrbook-package}
 \alias{learnrbook}
 \alias{learnrbook-package}
-\title{learnrbook: Datasets for P. J. Aphalo's "Learn R" Book}
+\title{learnrbook: Datasets and Code Examples from P. J. Aphalo's "Learn R" Book}
 \description{
-Data used in code examples in the book "Learn R: As a Language" by 
-   Pedro J. Aphalo. ISBN 9780367182533 (pbk); ISBN 9780367182557 (hbk); 
-   ISBN 9780429060342 (ebk).
+Data, scripts and code from chunks used as examples in the book 
+   "Learn R: As a Language" by Pedro J. Aphalo.
+   ISBN 9780367182533 (pbk); ISBN 9780367182557 (hbk); ISBN 9780429060342 (ebk).
 }
 \details{
 Package 'learnr' is a companion to the book Aphalo, P. (2020). Learn R. New
 York: Chapman and Hall/CRC, ISBN 9780367182533". This package supplies a list
 of all the packages used in the book. It also contains all the original data
-sets used in the book.
+sets used in the book as well as code for scripts and code chunks included
+in the book. Please, consult the "User Guide" under vignettes for instructions.
 }
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://docs.r4photobiology.info/learnrbook/}
-  \item Report bugs at \url{https://bitbucket.org/aphalo/learnrbook-pkg/issues}
+  \item Report bugs at \url{https://github.com/aphalo/learnrbook-pkg/issues}
 }
 
 }
